@@ -1,6 +1,5 @@
 {
   "name": "mytodoapp",
-  "private": true,
   "dependencies": {
     "bootstrap-sass": "3.3.4",
     "modernizr": "~2.8.1"
@@ -8,5 +7,20 @@
   "devDependencies": {
     "chai": "~3.3.0",
     "mocha": "~2.3.3"
-  }
+  },
+  "homepage": "https://github.com/MStaehling/MyTodoApp",
+  "authors": [
+    "Michael Staehling <Michael.staehling@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "CC0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
