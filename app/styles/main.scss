@@ -4,6 +4,11 @@ $icon-font-path: '../fonts/';
 @import "bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
 // endbower
 
+#todo-entry {
+  font-size: 30px;
+  width: 100%;
+}
+
 .browserupgrade {
   margin: 0.2em 0;
   background: #ccc;
@@ -35,6 +40,7 @@ body {
     margin-bottom: 0;
     line-height: 40px;
     padding-bottom: 19px;
+    text-align: center;
   }
 }
 
