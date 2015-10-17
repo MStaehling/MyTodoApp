@@ -4,7 +4,7 @@ $icon-font-path: '../fonts/';
 @import "bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
 // endbower
 
-#todo-entry {
+#todo-entry, #todo-section {
   font-size: 30px;
   width: 100%;
 }
